@@ -15,3 +15,7 @@ f) The ESP 8266 Node MCU is also connected to the sensors and will send the data
 
 # Software 
 The data will be obtained from the ThingSpeak Cloud Server and will be formulated and displayed to the user on the portal’s graphic user interface (GUI) via a Web Browser
+
+# Files
+1) Arduino_SD.ino - The Arduino code consisiting of the RTC, SD Card, Sensors and LCD Functionality
+2) ESP_8266_Node_MCU - The Arduino code consisting of the WiFi and ThingSpeak functionality
